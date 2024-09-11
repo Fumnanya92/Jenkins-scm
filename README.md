@@ -1,6 +1,3 @@
-Here’s your step-by-step Jenkins project documentation in Markdown format for GitHub:
-
-```markdown
 # Jenkins Job Project
 
 In Jenkins, a job is a unit of work or a task that can be executed by the Jenkins automation server.
@@ -156,6 +153,6 @@ Now that Docker is installed, we need to create a Dockerfile before we can run o
 Pushing the Dockerfile and index.html file will automatically trigger Jenkins to run a new build for the pipeline.
 
 To access the content of the **index.html** file on a web browser, edit inbound rules and open the port we mapped our container to (8081).
-```
+
 
 You can directly use this for your GitHub documentation. Let me know if you need any changes!
