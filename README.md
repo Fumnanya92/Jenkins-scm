@@ -153,3 +153,6 @@ Now that Docker is installed, we need to create a Dockerfile before we can run o
 Pushing the Dockerfile and index.html file will automatically trigger Jenkins to run a new build for the pipeline.
 
 To access the content of the **index.html** file on a web browser, edit inbound rules and open the port we mapped our container to (8081).
+
+![image](https://github.com/user-attachments/assets/122a26fd-6efe-40b1-bf01-4a60a53141a6)
+
